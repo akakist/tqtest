@@ -1,0 +1,13 @@
+TestType: WZ_OVERLAPPED_COLORSCALE_CONFIGURED
+ProductName: DFI.VET10.1
+Comments: 
+Urobilinogen: 1
+Glucose: 100
+Bilirubin: neg
+Ketones: 5
+SG: 1.010
+Blood: 10
+pH: 6
+Protein: trace
+Nitrite: trace
+Leukocytes: 25

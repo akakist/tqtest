@@ -1,0 +1,19 @@
+TestType: LFT_MANUAL
+ProductName: lftsample.manu.noplaceholder
+Comments: 
+CS0: 1
+CS1: 3
+CS2: 8
+CS3: 24
+CS4: 40
+CS5: 67
+CS6: 94
+CS7: 134
+CS8: 184
+CS9: 258
+CS10: 386
+CS11: 576
+CS12: 786
+CS13: 1090
+CS14: 1525
+CS15: 1953

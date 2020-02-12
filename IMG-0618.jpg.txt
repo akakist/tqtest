@@ -1,0 +1,5 @@
+TestType: LFTC_PRICEL
+ProductName: lftsample.lftcpricel.1
+Comments: 
+Analyte
+C: 47

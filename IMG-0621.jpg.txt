@@ -1,0 +1,6 @@
+TestType: TELEPHOTOMETER
+ProductName: TELE.PHOTOMETER.1
+Comments: 
+R: -0.039568
+G: -0.042771
+B: -0.042660

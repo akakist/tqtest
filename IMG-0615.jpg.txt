@@ -1,0 +1,6 @@
+TestType: LFTC
+ProductName: VBest.XAHTA.3
+Comments: 
+XAHTA
+C: 80
+T: 48
